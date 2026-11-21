@@ -1,9 +1,12 @@
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/muhamadlangg71-prog/gta6-trophy-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/muhamadlangg71-prog/gta6-trophy-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 # GTA VI Trophy Rarity Forecast
 
-Entry for make.fun `gta6-trophy-rarity-forecast-01`: forecast, for every
-trophy of Grand Theft Auto VI on PlayStation 5, the percent of
-Exophase-tracked players who will have earned it at 2026-11-26T00:00:00Z,
-as five quantiles (0.05, 0.25, 0.5, 0.75, 0.95) per trophy.
+Entry for [make.fun's GTA VI trophy rarity forecast bounty](https://make.fun/bounty/gta6-trophy-rarity-forecast-01) ($250): forecast, for every trophy of Grand Theft Auto VI on PlayStation 5, the percent of Exophase-tracked players who will have earned it at 2026-11-26T00:00:00Z, as five quantiles (0.05, 0.25, 0.5, 0.75, 0.95) per trophy.
+
+Referral: https://make.fun/r/sz08m7rk
 
 ## How it works
 
